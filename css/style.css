@@ -11,18 +11,9 @@
 
 }
 
-#howto p {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 #howto img {
   max-width: 768px;
-  margin: var(--spacing-base) auto 0 auto;
-}
-
-#howto h3 {
-  margin-bottom: var(--spacing-medium);
+  margin: var(--spacing-medium) auto 0 auto;
 }
 
 .groupRow .description {
@@ -31,6 +22,15 @@
 
 .center .description {
   text-align: center;
+  margin-top: 0;
+}
+
+.center .description:only-of-type {
+  text-align: left;
+}
+
+.center .description p {
+  margin: var(--spacing-base) auto 0 auto;
 }
 
 .description ul {
