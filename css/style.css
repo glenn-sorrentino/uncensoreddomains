@@ -25,10 +25,6 @@
   margin-bottom: var(--spacing-medium);
 }
 
-.groupRow {
-  margin: 0;
-}
-
 .groupRow .description {
   margin: 0 0 var(--spacing-large) 0;
 }
@@ -67,7 +63,13 @@
 }
 
 @media only screen and (max-width: 768px) {
+  .groupRow {
+    margin: 0;
+  }
 
+  .groupRow:first-of-type {
+    margin-top: var(--spacing-medium);
+  }
 }
 
 @media only screen and (max-width: 640px) {
