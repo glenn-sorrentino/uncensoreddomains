@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Sans";
-  src: url("../fonts/sans/compressed.woff2") format("woff2"),
-       url("../fonts/sans/compressed.woff") format("woff");
+  src: url("../fonts/sans/bold.woff2") format("woff2"),
+       url("../fonts/sans/bold.woff") format("woff");
 }
 
 @media (prefers-color-scheme: light) {
@@ -77,11 +77,12 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
+  font-family: "Sans";
 }
 
-header h1 {
+/* header h1 {
   font-family: Helvetica, Arial, sans-serif;
-}
+} */
 
 h2 {
   font-size: var(--font-size-1);

@@ -63,6 +63,7 @@
   cursor: pointer;
   margin: var(--spacing-small) 0;
   text-transform: capitalize;
+  font-family: "Sans";
 }
 
 .btnLrg {
