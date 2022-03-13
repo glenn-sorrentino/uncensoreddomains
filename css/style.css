@@ -38,7 +38,7 @@
 }
 
 .description ul {
-  margin: var(--spacing-base) 0 0 0 !important;
+  margin: calc(var(--spacing-base) * 1.25) 0 0 0 !important;
 }
 
 .description ul li {
