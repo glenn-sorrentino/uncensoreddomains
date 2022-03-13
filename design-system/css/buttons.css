@@ -10,8 +10,9 @@
   }
 
   .primaryBtn {
-    background-color: var(--color-dark);
-    color: var(--color-light);
+    background-color: var(--color-light);
+    color: var(--color-dark);
+    border: var(--border-dark);
   }
 
   .btn:hover {
@@ -37,8 +38,9 @@
   }
 
   .primaryBtn {
-    background-color: var(--color-light);
-    color: var(--color-dark);
+    background-color: var(--color-dark);
+    color: var(--color-light);
+    border: var(--border-light);
   }
 
   .btn:hover {

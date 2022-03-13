@@ -31,6 +31,10 @@
     background-color: var(--color-dark);
     color: white;
   }
+
+  h2 {
+    color: #64759D !important;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -63,6 +67,10 @@
   .highlight {
     background-color: var(--color-light);
     color: var(--color-dark);
+  }
+
+  h2 {
+    color: #7A9EE6 !important;
   }
 }
 
