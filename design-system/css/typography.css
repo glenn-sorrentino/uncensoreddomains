@@ -26,6 +26,11 @@
     background-color: var(--color-shade-lm);
     border: var(--border-dark);
   }
+
+  .highlight {
+    background-color: var(--color-dark);
+    color: white;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -54,6 +59,16 @@
     background-color: var(--color-shade-dm);
     border: var(--border-light);
   }
+
+  .highlight {
+    background-color: var(--color-light);
+    color: var(--color-dark);
+  }
+}
+
+.highlight {
+  padding: var(--spacing-xsmall);
+  border-radius: var(--radius-soft);
 }
 
 body {
