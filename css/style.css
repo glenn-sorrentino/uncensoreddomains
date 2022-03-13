@@ -11,6 +11,45 @@
 
 }
 
+#howto p {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#howto img {
+  max-width: 768px;
+  margin: var(--spacing-base) auto 0 auto;
+}
+
+#howto h3 {
+  margin-bottom: var(--spacing-medium);
+}
+
+.groupRow .description {
+  margin: 0;
+}
+
+.description ul {
+  margin: var(--spacing-base) 0 0 0 !important;
+}
+
+.description ul li {
+  font-weight: normal;
+  line-height: var(--line-height-base);
+}
+
+.description ul li  {
+  font-weight: bold;
+  margin-bottom: var(--spacing-medium) !important;
+}
+
+.description ul li a {
+  font-weight: normal;
+  display: block;
+  margin: var(--spacing-xsmall) 0;
+  word-break: break-all;
+}
+
 @media only screen and (max-width: 1280px) {
 
 }
