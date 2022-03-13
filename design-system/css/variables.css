@@ -54,4 +54,8 @@
 
   --radius-soft: .25rem;
   --radius-round: 50vw;
+
+  --gradient-dm: linear-gradient(135deg, #AC91BE 0%, #9885A4 100%);
+  --gradient-lm: linear-gradient(135deg, #7D4698 0%, #59316B 100%);
+
 }
