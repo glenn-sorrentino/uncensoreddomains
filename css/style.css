@@ -29,6 +29,10 @@
   margin: 0 0 var(--spacing-large) 0;
 }
 
+.center .description {
+  text-align: center;
+}
+
 .description ul {
   margin: var(--spacing-base) 0 0 0 !important;
 }
