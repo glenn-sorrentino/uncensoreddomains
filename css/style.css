@@ -41,10 +41,12 @@
 .description ul li  {
   font-weight: bold;
   margin-bottom: var(--spacing-medium) !important;
+  font-size: calc(var(--font-size-5) * .75);
 }
 
 .description ul li a {
   font-weight: normal;
+  font-size: var(--font-size-small);
   display: block;
   margin: var(--spacing-xsmall) 0;
   word-break: break-all;
