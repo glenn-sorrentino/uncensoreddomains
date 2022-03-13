@@ -181,3 +181,10 @@ nav .badge {
     margin-left: var(--spacing-medium);
   }
 }
+
+@media only screen and (max-width: 480px) {
+
+  header h1 {
+    font-size: calc(var(--font-size-logo) * .9) !important;
+  }
+}
