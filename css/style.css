@@ -25,8 +25,12 @@
   margin-top: 0;
 }
 
-.center .description:only-of-type {
+.center .description:only-of-type p {
   text-align: left;
+}
+
+.center .description:only-of-type p:only-of-type {
+  text-align: center;
 }
 
 .center .description p {
