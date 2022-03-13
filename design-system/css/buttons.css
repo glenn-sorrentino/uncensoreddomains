@@ -11,7 +11,7 @@
 
   .primaryBtn {
     background-color: var(--color-light);
-    color: var(--color-dark);
+    color: #7D4698;
     border: var(--border-dark);
   }
 
@@ -39,7 +39,7 @@
 
   .primaryBtn {
     background-color: var(--color-dark);
-    color: var(--color-light);
+    color: #BE9ED1;
     border: var(--border-light);
   }
 
