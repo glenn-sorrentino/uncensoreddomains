@@ -4,7 +4,7 @@
   }
 
   nav ul li a:hover {
-    box-shadow: inset 0 -3px var(--color-dark);
+    box-shadow: inset 0 -3px #7D4698;
   }
 }
 
@@ -14,7 +14,7 @@
   }
 
   nav ul li a:hover {
-    box-shadow: inset 0 -3px var(--color-light);
+    box-shadow: inset 0 -3px #AC91BE;
   }
 }
 
@@ -120,7 +120,7 @@ nav .badge {
     }
 
     nav ul li a:hover {
-      box-shadow: inset 3px 0 var(--color-dark);
+      box-shadow: inset 3px 0 #7D4698;
     }
   }
 
@@ -131,7 +131,7 @@ nav .badge {
     }
 
     nav ul li a:hover {
-      box-shadow: inset 3px 0 var(--color-light);
+      box-shadow: inset 3px 0 #AC91BE;
     }
   }
 
