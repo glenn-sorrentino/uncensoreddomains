@@ -77,6 +77,10 @@
     margin: 0;
   }
 
+  .groupRow .description {
+    margin-bottom: var(--spacing-xlarge);
+  }
+
   .groupRow:first-of-type {
     margin-top: var(--spacing-medium);
   }
