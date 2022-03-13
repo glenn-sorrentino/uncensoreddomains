@@ -29,7 +29,7 @@
 }
 
 html {
-  scroll-padding-top: calc(var(--spacing-xxlarge) * 1.5);
+  scroll-padding-top: calc(var(--spacing-xxlarge) * 2);
 }
 
 body {

@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Sans";
-  src: url("../fonts/sans/family.woff2") format("woff2"),
-       url("../fonts/sans/family.woff") format("woff");
+  src: url("../fonts/sans/compressed.woff2") format("woff2"),
+       url("../fonts/sans/compressed.woff") format("woff");
 }
 
 @media (prefers-color-scheme: light) {
@@ -64,9 +64,18 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+header h1 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
 h2 {
   font-size: var(--font-size-1);
   line-height: var(--line-height-1);
+}
+
+h2 {
+  font-size: calc(var(--font-size-1) * 1.25);
+  line-height: calc(var(--line-height-1) * 1.25);
 }
 
 h3 {
@@ -123,8 +132,8 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 
 @media only screen and (max-width: 1440px) {
   h2 {
-    font-size: calc(var(--font-size-1) * .9);
-    line-height: calc(var(--line-height-1) * .9);
+    font-size: calc(var(--font-size-1) * 1.25);
+    line-height: calc(var(--line-height-1) * 1.25);
   }
 
   h3 {
@@ -152,13 +161,18 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 }
 
 @media only screen and (max-width: 1024px) {
+
+  h2 {
+    font-size: calc(var(--font-size-1) * 1.125);
+    line-height: calc(var(--line-height-1) * 1.125);
+  }
 }
 
 @media only screen and (max-width: 768px) {
 
   h2 {
-    font-size: calc(var(--font-size-1) * .8);
-    line-height: calc(var(--line-height-1) * .8);
+    font-size: calc(var(--font-size-1) * .9);
+    line-height: calc(var(--line-height-1) * .9);
   }
 
   h3 {
@@ -188,7 +202,7 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 @media only screen and (max-width: 480px) {
 
   h2 {
-    font-size: calc(var(--font-size-1) * .6);
-    line-height: calc(var(--line-height-1) * .6);
+    font-size: calc(var(--font-size-1) * .7);
+    line-height: calc(var(--line-height-1) * .7);
   }
 }
