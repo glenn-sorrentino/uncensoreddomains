@@ -157,8 +157,8 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 
 @media only screen and (max-width: 1440px) {
   h2 {
-    font-size: calc(var(--font-size-1) * 1.25);
-    line-height: calc(var(--line-height-1) * 1.25);
+    font-size: calc(var(--font-size-1) * 1.125);
+    line-height: calc(var(--line-height-1) * 1.125);
   }
 
   h3 {
@@ -188,8 +188,8 @@ h1 .emoji, h2 .emoji, h3 .emoji, h4 .emoji, h5 .emoji, h6 .emoji {
 @media only screen and (max-width: 1024px) {
 
   h2 {
-    font-size: calc(var(--font-size-1) * 1.125);
-    line-height: calc(var(--line-height-1) * 1.125);
+    font-size: calc(var(--font-size-1) * 1);
+    line-height: calc(var(--line-height-1) * 1);
   }
 }
 
