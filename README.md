@@ -1,5 +1,6 @@
 # Uncensored Domains
-https://uncensored.domains/
+https://uncensored.domains/<br>
+http://vbohelzzvdck2f4fvm4g7fm7k75oax6ilho57xwgkmssmy23ogrlpuad.onion/
 
 A Directory Of Trustworthy Onion Sites<br>
 ❤️ An anti-censorship project by [Glenn Sorrentino](https://glennsorrentino.com).
