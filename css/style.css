@@ -46,13 +46,13 @@
   line-height: var(--line-height-base);
 }
 
-.description ul li  {
+.description ul li a  {
   font-weight: bold;
   margin-bottom: var(--spacing-medium) !important;
   font-size: calc(var(--font-size-5) * .75);
 }
 
-.description ul li a {
+.description ul li a:last-of-type {
   font-weight: normal;
   font-size: var(--font-size-small);
   display: block;
