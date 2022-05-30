@@ -85,8 +85,4 @@ section {
     padding: 0 var(--spacing-medium);
   }
 
-  section {
-    margin: 0 0 var(--spacing-xxlarge) 0;
-  }
-
 }

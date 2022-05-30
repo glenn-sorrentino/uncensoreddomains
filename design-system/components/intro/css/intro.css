@@ -25,6 +25,7 @@
 
 .intro h2 {
   width: 80%;
+  line-height: var(--line-height-heading-intro);
 }
 
 .intro p:last-of-type {

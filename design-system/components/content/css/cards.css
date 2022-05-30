@@ -1,36 +1,78 @@
 @media (prefers-color-scheme: light) {
-  .card {
+  .card  .description {
     border: var(--border-dark);
     background-color: var(--color-light);
+    box-shadow: var(--shadow-lm);
+  }
+
+  .group.card {
+    border: var(--border-dark);
+    background-color: var(--color-light);
+    box-shadow: var(--shadow-lm);
+  }
+
+  .group.card .description {
+    border: 0 !important;
+    background-color: transparent !important;
+    box-shadow: none;
   }
 }
 
 @media (prefers-color-scheme: dark) {
-  .card {
+  .card  .description {
     border: var(--border-light);
     background-color: var(--color-shade-dm);
+    box-shadow: var(--shadow-dm);
+  }
+
+  .group.card {
+    border: var(--border-light);
+    background-color: var(--color-shade-dm);
+    box-shadow: var(--shadow-dm);
+  }
+
+  .group.card .description {
+    border: 0 !important;
+    background-color: transparent !important;
+    box-shadow: none;
   }
 }
 
-.card {
+.card .description {
   padding: var(--spacing-xlarge) var(--spacing-large) !important;
-  border-radius: var(--radius-soft);
-  margin: var(--spacing-base);
+  border-radius: var(--radius-softer);
+  margin: var(--spacing-base) !important;
 }
 
-.card:first-of-type {
-  margin-left: 0;
+.groupRow.card {
+  margin:0;
 }
 
-.card:last-of-type {
-  margin-right: 0;
+.group.card {
+  padding: var(--spacing-xlarge) var(--spacing-large) !important;
+  border-radius: var(--radius-softer);
+  margin: 0;
+}
+
+.group.card .description {
+  padding: 0 !important;
+  border-radius: 0 !important;
+  margin: 0 !important;
+}
+
+.card .description:first-of-type {
+  margin-left: 0 !important;
+}
+
+.card .description:last-of-type {
+  margin-right: 0 !important;
 }
 
 .center .groupRow:first-of-type .card {
   margin-top: var(--spacing-large);
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 960px) {
   .center .groupRow:first-of-type .card:nth-child(2n) {
     margin-top: var(--spacing-base);
   }
@@ -38,4 +80,32 @@
   .card {
     margin: var(--spacing-base) 0;
   }
+
+  .groupRow.card {
+    flex-direction: column;
+  }
+
+  .card .description {
+    margin: var(--spacing-base) 0 !important;
+  }
+
+  .card .description:first-of-type {
+    margin-left: 0 !important;
+  }
+
+  .card .description:last-of-type {
+    margin-right: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .card {
+    margin: 0 !important;
+  }
+
+  .card .description{
+    padding: var(--spacing-large) var(--spacing-medium) !important;
+    margin: var(--spacing-base) 0 !important;
+  }
+
 }
