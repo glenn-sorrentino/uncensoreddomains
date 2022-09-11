@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/glennsorrentino
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://uncensored.domains
+  * I am glennsorrentino (https://keybase.io/glennsorrentino) on keybase.
+  * I have a public key ASCygMX9r97xdu1Wz0GD5XHzM9zXdteAzWJ6OZZRM8kXTgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010123ed4a619d56831197a5a583d27c9c10246640bd53f9179c7dd5817ca9c344920a",
+      "host": "keybase.io",
+      "kid": "0120b280c5fdafdef176ed56cf4183e571f333dcd776d780cd627a39965133c9174e0a",
+      "uid": "8e5e3209ef89644436b58deb16ce5f19",
+      "username": "glennsorrentino"
+    },
+    "merkle_root": {
+      "ctime": 1662930906,
+      "hash": "1fa7a66f9eb068bbca3d464706cdc58d427cc722a3ed9df3f7e433744268a4a97fbef98f770424872dc95c21b78a505187e3ff9a86bec8e04a39e7f4d6e3344e",
+      "hash_meta": "77232c77fd30751ac2079da874b9a837d3bca570798e2fd45238beac83ebbc6f",
+      "seqno": 23177921
+    },
+    "service": {
+      "entropy": "qgqrQkbsxHhGmU0sLIHkSjtG",
+      "hostname": "uncensored.domains",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1662930942,
+  "expire_in": 504576000,
+  "prev": "2e2548c107f6a4dec791fa67767f6dd423052d216d44072743f7d470ead7bc92",
+  "seqno": 174,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsoDF/a/e8XbtVs9Bg+Vx8zPc13bXgM1iejmWUTPJF04Kp3BheWxvYWTES5cCzK7EIC4lSMEH9qTex5H6Z3Z/bdQjBS0hbUQHJ0P31HDq17ySxCDggMZyfEpTnzSE1utbyhNlE9qB59FbjNa3UvSwKIV4wgIBwqNzaWfEQL3/3kPacZswRgD9tmmTUoOQseKCoxDfe0pSBv4OiOXdd3m8Jy4SfTl5YDZm54XXXxaoddOTomFot3NMCkhsqwmoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDM2e6X6QxOnG1njHLeo6uBKiiaoNl3MjXgcwmDhuwpaKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/glennsorrentino
+
+==================================================================
