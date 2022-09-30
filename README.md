@@ -61,7 +61,7 @@ http://kfahv6wfkbezjyg4r6mlhpmieydbebr5vkok5r34ya464gqz6c44bnyd.onion/
 <br>
 ### 💼 Professional Services
 
-**Science & Design, A Non-Profit Tech Cooperative**<br>
+**Science & Design**<br>
 http://kdnaygmkxz2qnb5vo4abdbvc3zyqml6ppfbf36dzsvug4eqjkckbypad.onion
 
 **Product Design, Glenn Sorrentino**<br>
