@@ -1,6 +1,6 @@
 # Uncensored Domains
 https://uncensored.domains/<br>
-http://vbohelzzvdck2f4fvm4g7fm7k75oax6ilho57xwgkmssmy23ogrlpuad.onion/<br>
+http://5zlwhjosezgvlpbtowuqn57md76lfxx2agtafurkcpsojzdxuksjucad.onion/<br>
 https://glenn-sorrentino.github.io/uncensored.domains/
 
 ## A Directory Of Trustworthy Onion Sites<br>
