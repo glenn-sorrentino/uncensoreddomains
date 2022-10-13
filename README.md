@@ -1,6 +1,6 @@
 # Uncensored Domains
 https://uncensored.domains/<br>
-http://vbohelzzvdck2f4fvm4g7fm7k75oax6ilho57xwgkmssmy23ogrlpuad.onion/<br>
+http://5zlwhjosezgvlpbtowuqn57md76lfxx2agtafurkcpsojzdxuksjucad.onion/<br>
 https://glenn-sorrentino.github.io/uncensored.domains/
 
 ## A Directory Of Trustworthy Onion Sites<br>
@@ -61,7 +61,7 @@ http://kfahv6wfkbezjyg4r6mlhpmieydbebr5vkok5r34ya464gqz6c44bnyd.onion/
 <br>
 ### 💼 Professional Services
 
-**Science & Design, A Non-Profit Tech Cooperative**<br>
+**Science & Design**<br>
 http://kdnaygmkxz2qnb5vo4abdbvc3zyqml6ppfbf36dzsvug4eqjkckbypad.onion
 
 **Product Design, Glenn Sorrentino**<br>
